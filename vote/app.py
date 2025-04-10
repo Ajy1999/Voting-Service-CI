@@ -8,8 +8,8 @@ import logging
 
 
 #added new comment
-option_a = os.getenv('OPTION_A', "Pink")
-option_b = os.getenv('OPTION_B', "Blue")
+option_a = os.getenv('OPTION_A', "Chocolates")
+option_b = os.getenv('OPTION_B', "Icecreams")
 hostname = socket.gethostname()
 
 app = Flask(__name__)
