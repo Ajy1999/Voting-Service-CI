@@ -64,8 +64,8 @@ body{
   vertical-align:middle;
   font-size:40px;
   font-weight: 600;
-  width: 450px;
-  height: 200px;
+  width: fit-content;
+  height: fit-content;
 }
 #choice a{
   text-decoration:none;
